@@ -1,0 +1,8 @@
+gradio
+torch
+numpy
+soundfile
+demucs
+faster-whisper
+openai
+edge-tts

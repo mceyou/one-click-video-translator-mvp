@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+workspace/
+
+api_config.json
+一人公司（Solopreneur）商业战略与微型开发指南.md
+
+*.mp4
+*.wav
+*.mp3
+*.srt
+
+.DS_Store
